@@ -125,9 +125,7 @@ VIRUSTOTAL_API_KEY=YOUR_API_KEY
 
 ## 👥 Team
 
-- **Narottam Kumar** (Team Lead)
-- Team Member 2
-- Team Member 3
+- **Narottam Kumar** 
 
 ---
 
